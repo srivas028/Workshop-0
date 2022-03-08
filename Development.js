@@ -6,3 +6,9 @@ function addition (a,b) {
 };
 
 addition(a, b);
+
+const sub = (a, b) => {
+    console.log(a - b);
+};
+
+sub(a,b);
