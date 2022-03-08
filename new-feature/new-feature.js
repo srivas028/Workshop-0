@@ -7,3 +7,8 @@ const multiply = (a, b) => {
 
 multiply(a, b);
 
+const Division = (a, b) => {
+    console.log(a / b);
+};
+
+multiply(a, b);
