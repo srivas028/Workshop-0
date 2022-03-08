@@ -1,9 +1,8 @@
-const a = 10;
-const b = 20;
+let a = 12;
+let b = 15;
 
-function addition (a,b) {
-    console.log(a+b);
-};
+const addition = (a, b) => {
+    console.log(a + b);
 
 addition(a, b);
 
