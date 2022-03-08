@@ -6,3 +6,9 @@ const multiplication = (a, b) => {
 };
 
 multiplication(a, b);
+
+const Division = (a, b) => {
+    console.log(a / b);
+};
+
+Division(a, b);
